@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/TeamPick/v17/.wsuo
+/.vs/TeamPick/FileContentIndex/read.lock
+/.vs/TeamPick/FileContentIndex/c32defb0-178f-402a-9f76-e9dd075d6518.vsidx
+/.vs/TeamPick/FileContentIndex/b3999e0c-5d00-43aa-8437-c0aafc8019c1.vsidx
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/TeamPick/FileContentIndex/09d0885e-3908-4951-8b5e-b6669959544e.vsidx
+/.vs/TeamPick/FileContentIndex/0e5c96c2-3000-494c-afb3-d0e0f49a257c.vsidx
+/.vs/TeamPick/FileContentIndex
+/TeamPick/obj/Release/net6.0-windows
+/TeamPick/obj/Debug/net6.0-windows
+/TeamPick/obj
+/TeamPick/bin/Debug/net6.0-windows
+/TeamPick/.vs/TeamPick
+/.vs/TeamPick/v17/.futdcache.v2
+/TeamPick/TeamPick.csproj.user
